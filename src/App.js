@@ -1,3 +1,5 @@
+// I did not understand this assignment
+
 import './App.css';
 import { useEffect, useState } from 'react'
 import Gallery from './components/Gallery'
